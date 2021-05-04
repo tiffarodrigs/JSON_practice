@@ -1,0 +1,33 @@
+[
+  {
+    "Day":"1",
+    "breakfast": "Pongal",
+    "ingridients":["rice","dhal"]
+
+  }
+  {
+    "Day":"2",
+    "breakfast": "cereal",
+    "ingridients":["cereal","milk"]
+  }
+  {
+    "Day":"3",
+    "breakfast": "idly",
+    "ingridients":["idly ","chutney"]
+  }
+  {
+    "Day":"4",
+    "breakfast": "Poori Masala",
+    "ingridients":["poori","potatoes"]
+  }
+  {
+    "Day":"5",
+    "breakfast": "idly",
+    "ingridients":["idly ","chutney"]
+  }
+  {
+    "Day":"6",
+    "breakfast": "sandwich",
+    "ingridients":["bread","cheese"]
+  }
+]
