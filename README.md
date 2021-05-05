@@ -16,3 +16,10 @@ json practice
 - ingridients
 
   [Solution](./breakfast.json)
+
+## Day 2:
+1. Create a JSON file for the below details:
+- Category
+- bookName
+- author
+[Solution](./library.json)

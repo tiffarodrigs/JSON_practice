@@ -1,0 +1,17 @@
+[
+  {
+    "category":"fiction",
+    "bookName":"Harry Potter",
+    "author":"J.K.Rowling"
+  }
+  {
+    "category":"non-fiction",
+    "bookName":"Anne Frank Diary",
+    "author":"Anne Frank"
+  }
+  {
+    "category":"non-fiction",
+    "bookName":"Watercolor for beginner",
+    "author":"Catherine"
+  }
+]
