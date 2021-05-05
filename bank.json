@@ -1,0 +1,17 @@
+[
+  {
+    "name":"xyz",
+    "account types":["savings","checking"],
+    "bank name": "abc"
+    }
+    {
+      "name":"dfg",
+      "account types":["savings","checking"],
+      "bank name": "tre"
+      }
+      {
+        "name":"kiu",
+        "account types":["savings","checking"],
+        "bank name": "lad"
+        }
+]

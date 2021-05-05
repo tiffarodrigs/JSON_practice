@@ -23,3 +23,9 @@ json practice
 - bookName
 - author
 [Solution](./library.json)
+
+2. Bank
+- Name
+- account types
+- bank name
+[Solution](./bank.json)
