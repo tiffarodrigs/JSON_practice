@@ -2,36 +2,36 @@
   {
     "cityName":"Portland",
     "country": "USA",
-    "minTemp":"40",
-    "maxTemp":"80",
-    "currentTemp":"60"
+    "minTemp":40,
+    "maxTemp":80,
+    "currentTemp":60
   }
   {
     "cityName":"Chennai",
     "country": "India",
-    "minTemp":"70",
-    "maxTemp":"110",
-    "currentTemp":"90"
+    "minTemp":70,
+    "maxTemp":110,
+    "currentTemp":90
   }
   {
     "cityName":"Arizona",
     "country": "USA",
-    "minTemp":"70",
-    "maxTemp":"110",
-    "currentTemp":"100"
+    "minTemp":70,
+    "maxTemp":110,
+    "currentTemp":100
   }
   {
     "cityName":"NewYork",
     "country": "USA",
-    "minTemp":"30",
-    "maxTemp":"100",
-    "currentTemp":"65"
+    "minTemp":30,
+    "maxTemp":100,
+    "currentTemp":65
   }
   {
     "cityName":"Delhi",
     "country": "India",
-    "minTemp":"40",
-    "maxTemp":"115",
-    "currentTemp":"95"
+    "minTemp":40,
+    "maxTemp":115,
+    "currentTemp":95
   }
 ]
