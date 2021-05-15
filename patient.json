@@ -1,0 +1,12 @@
+[
+  {
+    "patient_name":"rtyer",
+    "gender":"f",
+    "patient_age":"70",
+    "date_of_admission":"2 Oct 2018",
+    "body_temp":98.7,
+    "heart_rate":76,
+    "pressure":100/134
+
+  }
+]

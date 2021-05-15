@@ -1,0 +1,9 @@
+[
+  {
+    "hospitalName":"abc",
+    "totalBed":10,
+    "occupiedBed":5,
+    "freeBed":5,
+    "ambulance":4
+  }
+]
